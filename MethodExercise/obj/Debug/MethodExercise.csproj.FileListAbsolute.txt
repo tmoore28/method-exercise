@@ -1,0 +1,7 @@
+C:\Users\cocac\source\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe.config
+C:\Users\cocac\source\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe
+C:\Users\cocac\source\repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.pdb
+C:\Users\cocac\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\cocac\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\cocac\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.exe
+C:\Users\cocac\source\repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.pdb
